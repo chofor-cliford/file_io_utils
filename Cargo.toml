@@ -1,0 +1,7 @@
+[package]
+name = "fileIoUtils"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+file_io_utils={path='./file_io_utils'}

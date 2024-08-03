@@ -1,0 +1,2 @@
+Initial content.
+Appending to a test file.
